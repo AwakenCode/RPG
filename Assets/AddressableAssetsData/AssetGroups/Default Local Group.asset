@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 049d83960176f884993721a77ede0f35
+  m_SerializeEntries:
+  - m_GUID: 526a526df5e20104f8f682d45a30c3bf
+    m_Address: Enemy Melee
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c757ddb23a238340bd1f3b0d49c403c
+    m_Address: EnemyMarker
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64186d66abbf173428338cb2fb5df692
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce185c91de1ceb6469558fbca322729b
+    m_Address: Curtain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 983116d337dc9704d94113d7133f25a1
+    m_Address: Enemy Ranged
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96714acc7ac1ea247bdff23c19dbc3f7
+    m_Address: Player Input
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae4c8e161318f5e4ea2de038d685876a
+    m_Address: BulletPool
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7d8a83708a924a1458a332b940a0fb92, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 952ad156bbb01c64e9ba4989e2c79d60, type: 2}
+    - {fileID: 11400000, guid: 67d550381c3ad5a478049ba57bea46be, type: 2}

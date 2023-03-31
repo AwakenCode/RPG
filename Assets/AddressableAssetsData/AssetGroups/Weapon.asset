@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapon
+  m_EditorClassIdentifier: 
+  m_GroupName: Weapon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 967ad78549e93ce46976526e7d6f58f4
+  m_SerializeEntries:
+  - m_GUID: cde573883a3af5c4aae933ce46d28ced
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa9e811d4c4b12b4db3bc70e3b184fe7
+    m_Address: Colt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd4980fa485f0ae498615fb18eac38f5
+    m_Address: M4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be2fa6af308b3d240b95d2c9a35e5943
+    m_Address: Sword
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7d8a83708a924a1458a332b940a0fb92, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 615d4b31ece069a4ea9b4611310fe238, type: 2}
+    - {fileID: 11400000, guid: 62c504962eaa9c04781c82f77157755d, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 035260561ae5428497e1915f850e46c5, type: 3}
+  m_Name: Caliber45
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 0
+  <Speed>k__BackingField: 10
+  <LifeTime>k__BackingField: 3
+  <Damage>k__BackingField: 3
+  <Template>k__BackingField:
+    m_AssetGUID: cde573883a3af5c4aae933ce46d28ced
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
